@@ -11,5 +11,8 @@
     "name": "Robert-Mihai Craciun",
     "email": "mihai.rcraciun@gmail.com",
     "url": "https://github.com/mihai-rc"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10"
   }
 }
