@@ -1,0 +1,15 @@
+{
+  "name": "com.gift-horse.synthetic-state",
+  "version": "0.0.1",
+  "displayName": "Synthetic State",
+  "description": "Declarative fluent api framework to create state machines.",
+  "unity": "2022.3",
+  "unityRelease": "58f1",
+  "changelogUrl": "https://github.com/mihai-rc/SyntheticState/blob/main/SyntheticState/Packages/SyntheticState/CHANGELOG.md",
+  "licensesUrl": "https://github.com/mihai-rc/SyntheticState/blob/main/SyntheticState/Packages/SyntheticState/LICENSE.md",
+  "author": {
+    "name": "Robert-Mihai Craciun",
+    "email": "mihai.rcraciun@gmail.com",
+    "url": "https://github.com/mihai-rc"
+  }
+}
